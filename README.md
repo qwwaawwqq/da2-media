@@ -1,2 +1,2 @@
-# DREAM ATLAS S2 media
-720p copies for Instagram/Threads publishing. Safe to delete after all 24 are published.
+# DREAM ATLAS media
+720p copies for Instagram/Threads publishing (S2: DA2_EPxx.mp4, S3: DA3_EPxx.mp4). Safe to delete after all are published.
